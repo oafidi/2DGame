@@ -5,6 +5,9 @@
 Le projet **so\_long** consiste à créer un jeu en 2D simple en utilisant la bibliothèque **MiniLibX** sur **macOS**. L'objectif est de manipuler des interfaces graphiques, gérer des fenêtres avec **X11**, et apprendre à afficher des textures tout en respectant des contraintes de gestion de mémoire et de contrôle des événements clavier.
 
 Ce projet a été une excellente opportunité pour découvrir la programmation graphique et comprendre le fonctionnement des systèmes de fenêtrage sous Unix !
+
+
+
 <img width="634" alt="ScreenShot" src="https://github.com/user-attachments/assets/82b8275d-933e-4833-bcc5-f35dd57e2ab8" />
 
 ## Fonctionnalités
